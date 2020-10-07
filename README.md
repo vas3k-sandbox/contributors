@@ -27,6 +27,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://github.com/fr33mang"><img src="https://avatars0.githubusercontent.com/u/13254668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vasiliy</b></sub></a><br /><a href="https://github.com/vas3k/vas3k.club/commits?author=fr33mang" title="Code">💻</a></td>
     <td align="center"><a href="https://bitbucket.org/Lopinopulos"><img src="https://avatars0.githubusercontent.com/u/1469636?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikolai Lopin</b></sub></a><br /><a href="https://github.com/vas3k/vas3k.club/commits?author=nlopin" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/korolevpetr"><img src="https://avatars2.githubusercontent.com/u/3356474?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Petr Korolev</b></sub></a><br /><a href="https://github.com/vas3k/vas3k.club/issues?q=author%3Askywinder" title="Bug reports">🐛</a> <a href="https://github.com/vas3k/vas3k.club/commits?author=skywinder" title="Documentation">📖</a> <a href="#projectManagement-skywinder" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/ujlbu4"><img src="https://avatars2.githubusercontent.com/u/2970869?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilya Shubkin</b></sub></a><br /><a href="https://github.com/vas3k/vas3k.club/commits?author=ujlbu4" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
