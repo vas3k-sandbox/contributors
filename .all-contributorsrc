@@ -1,0 +1,70 @@
+{
+  "projectName": "vas3k.club",
+  "projectOwner": "vas3k",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "vas3k",
+      "name": "Vasily Zubarev",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/176344?v=4",
+      "profile": "https://github.com/vas3k",
+      "contributions": [
+        "code",
+        "blog",
+        "business",
+        "content",
+        "design",
+        "ideas",
+        "infra",
+        "review",
+        "security"
+      ]
+    },
+    {
+      "login": "Vostenzuk",
+      "name": "Fedor Kuznetsov",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19980512?v=4",
+      "profile": "https://github.com/Vostenzuk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fr33mang",
+      "name": "Vasiliy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13254668?v=4",
+      "profile": "https://github.com/fr33mang",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nlopin",
+      "name": "Nikolai Lopin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1469636?v=4",
+      "profile": "https://bitbucket.org/Lopinopulos",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "skywinder",
+      "name": "Petr Korolev",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3356474?v=4",
+      "profile": "https://www.linkedin.com/in/korolevpetr",
+      "contributions": [
+        "bug",
+        "doc",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
