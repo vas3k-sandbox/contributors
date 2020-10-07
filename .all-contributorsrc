@@ -1,6 +1,6 @@
 {
-  "projectName": "vas3k.club",
-  "projectOwner": "vas3k",
+  "projectName": "contributors",
+  "projectOwner": "vas3k-sandbox",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -64,7 +64,17 @@
         "doc",
         "projectManagement"
       ]
+    },
+    {
+      "login": "ujlbu4",
+      "name": "Ilya Shubkin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2970869?v=4",
+      "profile": "https://github.com/ujlbu4",
+      "contributions": [
+        "test"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
