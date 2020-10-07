@@ -1,6 +1,6 @@
 {
-  "projectName": "vas3k.club",
-  "projectOwner": "vas3k",
+  "projectName": "contributors",
+  "projectOwner": "vas3k-sandbox",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -95,6 +95,16 @@
       ]
     },
     {
+      "login": "Birdi7",
+      "name": "Egor",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18901754?v=4",
+      "profile": "https://github.com/Birdi7",
+      "contributions": [
+        "bot"
+      ]
+      },
+    
+    {
       "login": "jackyfox",
       "name": "Eugene Pavlov",
       "avatar_url": "https://avatars1.githubusercontent.com/u/693161?v=4",
@@ -104,14 +114,15 @@
       ]
     },
     {
-      "login": "Birdi7",
-      "name": "Egor",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/18901754?v=4",
-      "profile": "https://github.com/Birdi7",
+      "login": "olgaForestmaid",
+      "name": "olya_forestmaid",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/63171724?v=4",
+      "profile": "http://www.behance.net/olga_gerasimova",
       "contributions": [
-        "bot"
+        "design"
       ]
-    }
+      }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
