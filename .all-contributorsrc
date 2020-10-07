@@ -102,8 +102,7 @@
       "contributions": [
         "bot"
       ]
-      },
-    
+    },
     {
       "login": "jackyfox",
       "name": "Eugene Pavlov",
@@ -121,7 +120,18 @@
       "contributions": [
         "design"
       ]
-      }
+    },
+    {
+      "login": "malitov",
+      "name": "Pavlo Malitov",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10050550?v=4",
+      "profile": "https://malitov.com/",
+      "contributions": [
+        "frontend",
+        "design",
+        "review"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true

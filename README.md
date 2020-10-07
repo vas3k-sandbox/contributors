@@ -33,6 +33,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
   <tr>
     <td align="center"><a href="http://www.jackyfox.com/"><img src="https://avatars1.githubusercontent.com/u/693161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugene Pavlov</b></sub></a><br /><a href="#design-jackyfox" title="Design">🎨</a></td>
     <td align="center"><a href="http://www.behance.net/olga_gerasimova"><img src="https://avatars1.githubusercontent.com/u/63171724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>olya_forestmaid</b></sub></a><br /><a href="#design-olgaForestmaid" title="Design">🎨</a></td>
+    <td align="center"><a href="https://malitov.com/"><img src="https://avatars0.githubusercontent.com/u/10050550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavlo Malitov</b></sub></a><br /><a href="#frontend-malitov" title="Frontend development">🖼</a> <a href="#design-malitov" title="Design">🎨</a> <a href="https://github.com/vas3k-sandbox/contributors/pulls?q=is%3Apr+reviewed-by%3Amalitov" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
