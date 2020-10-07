@@ -1,6 +1,6 @@
 {
-  "projectName": "vas3k.club",
-  "projectOwner": "vas3k",
+  "projectName": "contributors",
+  "projectOwner": "vas3k-sandbox",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -71,7 +71,17 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "olgaForestmaid",
+      "name": "olya_forestmaid",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/63171724?v=4",
+      "profile": "http://www.behance.net/olga_gerasimova",
+      "contributions": [
+        "design"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
