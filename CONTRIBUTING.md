@@ -22,3 +22,5 @@ TBD: describe labels
 ##### When is time to close issue?
 
 TBD: issue managment policy
+
+https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
