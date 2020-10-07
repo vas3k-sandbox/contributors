@@ -102,8 +102,7 @@
       "contributions": [
         "bot"
       ]
-      },
-    
+    },
     {
       "login": "jackyfox",
       "name": "Eugene Pavlov",
@@ -121,7 +120,17 @@
       "contributions": [
         "design"
       ]
-      }
+    },
+    {
+      "login": "IllanFed",
+      "name": "Ilya Fedorushkov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3023033?v=4",
+      "profile": "https://github.com/IllanFed",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true
