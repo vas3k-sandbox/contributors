@@ -37,6 +37,9 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://github.com/IllanFed"><img src="https://avatars1.githubusercontent.com/u/3023033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilya Fedorushkov</b></sub></a><br /><a href="#backend-IllanFed" title="Backend development">🕋</a> <a href="#bot-IllanFed" title="Bot development">🤖</a> <a href="#devops-IllanFed" title="Infrastructure">🚇</a></td>
     <td align="center"><a href="https://github.com/dimabory"><img src="https://avatars3.githubusercontent.com/u/11414342?v=4?s=100" width="100px;" alt=""/><br /><sub><b> Dmytro Borysovskyi</b></sub></a><br /><a href="#frontend-dimabory" title="Frontend development">🖼</a> <a href="#backend-dimabory" title="Backend development">🕋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://hudochenkov.com/"><img src="https://avatars2.githubusercontent.com/u/654597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleks Hudochenkov</b></sub></a><br /><a href="#frontend-hudochenkov" title="Frontend development">🖼</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
