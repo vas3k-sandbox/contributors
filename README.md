@@ -30,9 +30,13 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://github.com/ujlbu4"><img src="https://avatars2.githubusercontent.com/u/2970869?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilya Shubkin</b></sub></a><br /><a href="https://github.com/vas3k/vas3k.club/commits?author=ujlbu4" title="Tests">⚠️</a></td>
     <td align="center"><a href="http://www.jackyfox.com/"><img src="https://avatars1.githubusercontent.com/u/693161?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugene Pavlov</b></sub></a><br /><a href="#design-jackyfox" title="Design">🎨</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Birdi7"><img src="https://avatars3.githubusercontent.com/u/18901754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Egor</b></sub></a><br /><a href="#bot-Birdi7" title="Bot development">🤖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
