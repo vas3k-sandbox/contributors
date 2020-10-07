@@ -147,6 +147,17 @@
         "devops",
         "review"
       ]
+    },
+    {
+      "login": "dimabory",
+      "name": " Dmytro Borysovskyi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11414342?v=4",
+      "profile": "https://github.com/dimabory",
+      "contributions": [
+        "frontend",
+        "backend",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
