@@ -10,7 +10,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
 
 #### Want to participate?
 
-🆕 [Open new member request](https://github.com/vas3k-sandbox/contributors/issues/new?assignees=&labels=documentation&template=new-member-request.md&title=%5BNew+member%5D) and fill the template and check our [Сontributors guidelines](./docs/CONTRIBUTING.md)
+🆕 [Open new member request](https://github.com/vas3k-sandbox/contributors/issues/new?assignees=&labels=documentation&template=new-member-request.md&title=%5BNew+member%5D+%28your+username%29) and fill the template and check our [Сontributors guidelines](./docs/CONTRIBUTING.md)
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

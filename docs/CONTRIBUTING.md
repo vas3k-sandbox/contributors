@@ -10,7 +10,7 @@
 
 ##### 👮‍♀️ Membership requirements
 
-- User have to submit [member request](https://github.com/vas3k-sandbox/contributors/issues/new?assignees=&labels=documentation&template=new-member-request.md&title=%5BNew+member%5D) And follow his field of responsobility
+- User have to submit [member request](https://github.com/vas3k-sandbox/contributors/issues/new?assignees=&labels=documentation&template=new-member-request.md&title=%5BNew+member%5D+%28your+username%29) And follow his field of responsobility
 - Inactive users could be removed (that never participate in club projects since invite)
 
 #### 📋 Issues policy
