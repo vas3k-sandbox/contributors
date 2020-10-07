@@ -9,6 +9,12 @@
   "imageSize": 100,
   "commit": false,
   "commitConvention": "none",
+  "types": {
+    "root": {
+      "symbol": "🎩",
+      "description": "Owner and lead of the project"
+    }
+  },
   "contributors": [
     {
       "login": "vas3k",
@@ -16,10 +22,10 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/176344?v=4",
       "profile": "https://github.com/vas3k",
       "contributions": [
+        "root",
         "code",
         "business",
         "design",
-        "ideas",
         "infra",
         "review",
         "security"
@@ -70,6 +76,15 @@
       "profile": "https://github.com/ujlbu4",
       "contributions": [
         "test"
+      ]
+    },
+    {
+      "login": "jackyfox",
+      "name": "Eugene Pavlov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/693161?v=4",
+      "profile": "http://www.jackyfox.com/",
+      "contributions": [
+        "design"
       ]
     }
   ],
