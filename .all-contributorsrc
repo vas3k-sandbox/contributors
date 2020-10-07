@@ -13,6 +13,22 @@
     "root": {
       "symbol": "🎩",
       "description": "Owner and lead of the project"
+    },
+    "backend": {
+      "symbol": "🕋",
+      "description": "Backend development"
+    }, 
+    "frontend": {
+      "symbol": "🖼",
+      "description": "Frontend development"
+    }, 
+    "bot": {
+      "symbol": "🤖",
+      "description": "Bot development"
+    }, 
+    "devops": {
+      "symbol": "🚇",
+      "description": "Infrastructure"
     }
   },
   "contributors": [
