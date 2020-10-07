@@ -1,6 +1,6 @@
 {
-  "projectName": "contributors",
-  "projectOwner": "vas3k-sandbox",
+  "projectName": "vas3k.club",
+  "projectOwner": "vas3k",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -45,10 +45,8 @@
         "root",
         "code",
         "business",
-        "design",
         "infra",
-        "review",
-        "security"
+        "review"
       ]
     },
     {
@@ -84,7 +82,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/3356474?v=4",
       "profile": "https://www.linkedin.com/in/korolevpetr",
       "contributions": [
-        "bug",
+        "bot",
         "doc",
         "projectManagement"
       ]
