@@ -9,6 +9,28 @@
   "imageSize": 100,
   "commit": false,
   "commitConvention": "none",
+  "types": {
+    "root": {
+      "symbol": "🎩",
+      "description": "Owner and lead of the project"
+    },
+    "backend": {
+      "symbol": "🕋",
+      "description": "Backend development"
+    },
+    "frontend": {
+      "symbol": "🖼",
+      "description": "Frontend development"
+    },
+    "bot": {
+      "symbol": "🤖",
+      "description": "Bot development"
+    },
+    "devops": {
+      "symbol": "🚇",
+      "description": "Infrastructure"
+    }
+  },
   "contributors": [
     {
       "login": "vas3k",
@@ -16,10 +38,10 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/176344?v=4",
       "profile": "https://github.com/vas3k",
       "contributions": [
+        "root",
         "code",
         "business",
         "design",
-        "ideas",
         "infra",
         "review",
         "security"
@@ -73,6 +95,25 @@
       ]
     },
     {
+      "login": "Birdi7",
+      "name": "Egor",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18901754?v=4",
+      "profile": "https://github.com/Birdi7",
+      "contributions": [
+        "bot"
+      ]
+      },
+    
+    {
+      "login": "jackyfox",
+      "name": "Eugene Pavlov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/693161?v=4",
+      "profile": "http://www.jackyfox.com/",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
       "login": "olgaForestmaid",
       "name": "olya_forestmaid",
       "avatar_url": "https://avatars1.githubusercontent.com/u/63171724?v=4",
@@ -80,7 +121,7 @@
       "contributions": [
         "design"
       ]
-    }
+      }
   ],
   "contributorsPerLine": 7,
   "skipCi": true
