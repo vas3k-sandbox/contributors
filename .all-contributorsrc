@@ -14,6 +14,10 @@
       "symbol": "🎩",
       "description": "Owner and lead of the project"
     },
+    "fullstack": {
+      "symbol": "🖥",
+      "description": "Fullstack development"
+    },
     "backend": {
       "symbol": "🕋",
       "description": "Backend development"
