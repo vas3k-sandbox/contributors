@@ -1,0 +1,45 @@
+{
+  "projectName": "vas3k.club",
+  "projectOwner": "vas3k",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 60,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "vas3k",
+      "name": "Vasily Zubarev",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/176344?v=4",
+      "profile": "https://github.com/vas3k",
+      "contributions": [
+        "code",
+        "question",
+        "blog",
+        "bug",
+        "business",
+        "content",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "financial",
+        "fundingFinding",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "projectManagement",
+        "review",
+        "security",
+        "talk",
+        "tool",
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
