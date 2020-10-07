@@ -135,6 +135,18 @@
         "design",
         "review"
       ]
+    },
+    {
+      "login": "IllanFed",
+      "name": "Ilya Fedorushkov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3023033?v=4",
+      "profile": "https://github.com/IllanFed",
+      "contributions": [
+        "backend",
+        "bot",
+        "devops",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
