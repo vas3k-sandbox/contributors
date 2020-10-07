@@ -6,7 +6,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 60,
+  "imageSize": 100,
   "commit": false,
   "commitConvention": "none",
   "contributors": [
@@ -17,27 +17,52 @@
       "profile": "https://github.com/vas3k",
       "contributions": [
         "code",
-        "question",
         "blog",
-        "bug",
         "business",
         "content",
-        "data",
         "design",
-        "doc",
-        "example",
-        "financial",
-        "fundingFinding",
         "ideas",
         "infra",
-        "maintenance",
-        "mentoring",
-        "projectManagement",
         "review",
-        "security",
-        "talk",
-        "tool",
-        "translation"
+        "security"
+      ]
+    },
+    {
+      "login": "Vostenzuk",
+      "name": "Fedor Kuznetsov",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19980512?v=4",
+      "profile": "https://github.com/Vostenzuk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fr33mang",
+      "name": "Vasiliy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13254668?v=4",
+      "profile": "https://github.com/fr33mang",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nlopin",
+      "name": "Nikolai Lopin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1469636?v=4",
+      "profile": "https://bitbucket.org/Lopinopulos",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "skywinder",
+      "name": "Petr Korolev",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3356474?v=4",
+      "profile": "https://www.linkedin.com/in/korolevpetr",
+      "contributions": [
+        "bug",
+        "doc",
+        "projectManagement"
       ]
     }
   ],
