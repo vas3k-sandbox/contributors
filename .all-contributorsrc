@@ -158,6 +158,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "aiserg",
+      "name": "Sergey Razumov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6620176?v=4",
+      "profile": "https://github.com/aiserg",
+      "contributions": [
+        "frontend"
+      ]
     }
   ],
   "contributorsPerLine": 6,

@@ -39,6 +39,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
   </tr>
   <tr>
     <td align="center"><a href="https://hudochenkov.com/"><img src="https://avatars2.githubusercontent.com/u/654597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleks Hudochenkov</b></sub></a><br /><a href="#frontend-hudochenkov" title="Frontend development">🖼</a></td>
+    <td align="center"><a href="https://github.com/aiserg"><img src="https://avatars1.githubusercontent.com/u/6620176?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergey Razumov</b></sub></a><br /><a href="#frontend-aiserg" title="Frontend development">🖼</a></td>
   </tr>
 </table>
 
