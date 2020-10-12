@@ -178,6 +178,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "Windrushfarer",
+      "name": "Egor Ogarkov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8125574?v=4",
+      "profile": "https://windrushfarer.github.io/",
+      "contributions": [
+        "frontend"
+      ]
     }
   ],
   "contributorsPerLine": 6,

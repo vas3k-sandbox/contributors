@@ -41,6 +41,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://hudochenkov.com/"><img src="https://avatars2.githubusercontent.com/u/654597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleks Hudochenkov</b></sub></a><br /><a href="#frontend-hudochenkov" title="Frontend development">🖥</a></td>
     <td align="center"><a href="https://github.com/aiserg"><img src="https://avatars1.githubusercontent.com/u/6620176?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergey Razumov</b></sub></a><br /><a href="#frontend-aiserg" title="Frontend development">🖥</a></td>
     <td align="center"><a href="https://github.com/chralovic"><img src="https://avatars1.githubusercontent.com/u/49338736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nasta Chrałovič</b></sub></a><br /><a href="#frontend-chralovic" title="Frontend development">🖥</a></td>
+    <td align="center"><a href="https://windrushfarer.github.io/"><img src="https://avatars1.githubusercontent.com/u/8125574?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Egor Ogarkov</b></sub></a><br /><a href="#frontend-Windrushfarer" title="Frontend development">🖥</a></td>
   </tr>
 </table>
 
