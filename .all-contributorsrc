@@ -167,6 +167,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "chralovic",
+      "name": "Nasta Chrałovič",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49338736?v=4",
+      "profile": "https://github.com/chralovic",
+      "contributions": [
+        "frontend"
+      ]
     }
   ],
   "contributorsPerLine": 6,
