@@ -187,6 +187,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "nikolay-govorov",
+      "name": "Nikolay Govorov",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24303010?v=4",
+      "profile": "https://govorov.online/",
+      "contributions": [
+        "frontend"
+      ]
     }
   ],
   "contributorsPerLine": 6,
