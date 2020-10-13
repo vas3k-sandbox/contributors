@@ -15,7 +15,7 @@
       "description": "Owner and lead of the project"
     },
     "fullstack": {
-      "symbol": "🖥🕋👾",
+      "symbol": "🖥🕋🤖",
       "description": "Fullstack development"
     },
     "backend": {
@@ -60,7 +60,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/19980512?v=4",
       "profile": "https://github.com/Vostenzuk",
       "contributions": [
-        "code"
+        "fullstack"
       ]
     },
     {
@@ -69,7 +69,7 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/13254668?v=4",
       "profile": "https://github.com/fr33mang",
       "contributions": [
-        "code"
+        "fullstack"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/1469636?v=4",
       "profile": "https://bitbucket.org/Lopinopulos",
       "contributions": [
-        "code"
+        "fullstack"
       ]
     },
     {
