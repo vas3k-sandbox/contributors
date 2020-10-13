@@ -43,6 +43,7 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://github.com/chralovic"><img src="https://avatars1.githubusercontent.com/u/49338736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nasta Chrałovič</b></sub></a><br /><a href="#frontend-chralovic" title="Frontend development">🖥</a></td>
     <td align="center"><a href="https://windrushfarer.github.io/"><img src="https://avatars1.githubusercontent.com/u/8125574?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Egor Ogarkov</b></sub></a><br /><a href="#frontend-Windrushfarer" title="Frontend development">🖥</a></td>
     <td align="center"><a href="https://govorov.online/"><img src="https://avatars0.githubusercontent.com/u/24303010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikolay Govorov</b></sub></a><br /><a href="#frontend-nikolay-govorov" title="Frontend development">🖥</a></td>
+    <td align="center"><a href="https://medium.com/@cakeinpanic/latest"><img src="https://avatars0.githubusercontent.com/u/588916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Katya</b></sub></a><br /><a href="#frontend-cakeinpanic" title="Frontend development">🖥</a></td>
   </tr>
 </table>
 

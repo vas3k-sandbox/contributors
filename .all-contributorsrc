@@ -197,6 +197,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "cakeinpanic",
+      "name": "Katya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/588916?v=4",
+      "profile": "https://medium.com/@cakeinpanic/latest",
+      "contributions": [
+        "frontend"
+      ]
     }
   ],
   "contributorsPerLine": 6,
