@@ -45,6 +45,9 @@ Focal collaboration point around of [vas3k.club](https://vas3k.club/) developmen
     <td align="center"><a href="https://govorov.online/"><img src="https://avatars0.githubusercontent.com/u/24303010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikolay Govorov</b></sub></a><br /><a href="#frontend-nikolay-govorov" title="Frontend development">🖥</a></td>
     <td align="center"><a href="https://medium.com/@cakeinpanic/latest"><img src="https://avatars0.githubusercontent.com/u/588916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Katya</b></sub></a><br /><a href="#frontend-cakeinpanic" title="Frontend development">🖥</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/devcooch"><img src="https://avatars0.githubusercontent.com/u/2089015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dmitry Kochkin</b></sub></a><br /><a href="#backend-devcooch" title="Backend development">🕋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->

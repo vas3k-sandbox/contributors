@@ -206,6 +206,15 @@
       "contributions": [
         "frontend"
       ]
+    },
+    {
+      "login": "devcooch",
+      "name": "Dmitry Kochkin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2089015?v=4",
+      "profile": "https://github.com/devcooch",
+      "contributions": [
+        "backend"
+      ]
     }
   ],
   "contributorsPerLine": 6,
