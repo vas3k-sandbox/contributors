@@ -1,3 +1,9 @@
+---
+name: Feature Request
+about: Suggest ideas, new features or enhancements
+labels: "enhancement"
+---
+
 <!-- WARNING: Ignoring this template could lead to the issue being closed as incomplete -->
 
 ## Checklist
